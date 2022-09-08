@@ -51,3 +51,4 @@ class MopsCrawler:
 
     def close(self):
         self.chrome.close()
+        time.sleep(2)

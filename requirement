@@ -1,0 +1,4 @@
+tqdm
+selenium == 4.4
+pysqlite3
+fastapi
