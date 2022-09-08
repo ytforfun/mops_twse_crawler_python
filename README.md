@@ -11,6 +11,7 @@ python mops.py
 ```
 
 ## Stage
-- [x] <a href="https://mops.twse.com.tw/mops/web/t100sb15" target="_blank">非主管平均薪資</a>, 20220908
+- [x] [非主管平均薪資](https://mops.twse.com.tw/mops/web/t100sb15){target="_blank"}, 20220908
 - [ ] WEB (Fastapi)
 - [ ] GUI (PySide6)
+- [ ] TEST <a href="http://google.com" target="_blank">external link</a>
